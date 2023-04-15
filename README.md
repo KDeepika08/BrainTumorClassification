@@ -1,8 +1,10 @@
 # BrainTumorClassification
 
-• Worked in a team of 3 members to develop an innovative machine learning solution for classifying brain tumors from MRI images.\
-• Evaluated model performance using various metrics and tried to optimize model accuracy.\
-• Contributed to the development of a user-friendly interface for the model, enabling medical professionals to easily classify brain tumors.\
+• Collaborated in a team to design and implement an inventive machine learning solution for accurately classifying brain tumors from MRI images.\
+• Engineered a machine learning model employing SVM, Logistic Regression, and XGBoost, while also conducting preprocessing of the MRI data to improve the model's performance and mitigate overfitting.\
+• Conducted a comprehensive evaluation of model performance using various metrics, followed by hyperparameter tuning to optimize the model's accuracy.\
+• Leveraged various data visualization techniques to effectively communicate model results to both team members and stakeholders.\
+• Proficiently worked with Tkinter to navigate the frontend interface designed using Gradio.
 
 
 ![BrainTumorclassification2](https://user-images.githubusercontent.com/93597958/232199925-7a703f19-4f30-4e3c-b527-ab552f5df322.jpg)
